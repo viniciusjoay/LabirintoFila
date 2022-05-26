@@ -55,7 +55,7 @@ public class LabirintoFila {
         Scanner scan = new Scanner(System.in);
         while (true){
             imprimeLabirinto();
-            System.out.println("Programe seus passos para chegar no 'S'!");
+            System.out.println("Programe seus passos para chegar no 'B'!");
             System.out.println("Comandos enfileirados: " + this.queue.size());
             System.out.println("-=-=-=-=-=-=| COMANDOS |=-=-=-=-=-=-");
             System.out.println("[ W ] - CIMA");
